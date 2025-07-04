@@ -5,7 +5,7 @@ from typing import List, Dict
 # -----------------------------
 # Backend API configuration
 # -----------------------------
-API_URL = "http://localhost:8000"  # Change if backend runs elsewhere
+API_URL = "https://movie-recommendation-service-8qiw.onrender.com"  # Change if backend runs elsewhere
 
 # -----------------------------
 # Helper functions for API calls
